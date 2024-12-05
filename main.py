@@ -1,2 +1,2 @@
-print('HELLO WRLD')
+print('привет мир')
 # 2024 (c) ME
